@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Big downloads, not part of this repo
+llama.cpp/
+*.gguf
+.DS_Store
